@@ -22,9 +22,7 @@ The first implementation is built using `Numpy` and the second uses `PyTorch`.
 
 ## Dataset
 
-The dataset used for training is [Wine Quality](https://archive.ics.uci.edu/dataset/186/wine+quality).
-
-The dataset contains 4,898 instances of wine, each with 11 physicochemical features (e.g., alcohol, acidity) and a quality score ranging from 0 to 10.
+The dataset used for training is [Wine Quality](https://archive.ics.uci.edu/dataset/186/wine+quality). It contains 4,898 instances of wine, each with 11 physicochemical features (e.g., alcohol, acidity) and a quality score ranging from 0 to 10.
 
 The project has a script to split the data into train, val and test.
 
